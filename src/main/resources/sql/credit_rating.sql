@@ -5,7 +5,7 @@ CREATE TABLE credit_rating(
   start_amount decimal(15,2) DEFAULT NULL,
   end_amount decimal(15,2) DEFAULT NULL,
   rating int(11) DEFAULT NULL,
-  PRIMARY KEY (`id`)
+  PRIMARY KEY (id)
 ) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8;
 
 INSERT INTO credit_rating
