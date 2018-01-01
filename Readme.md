@@ -9,7 +9,7 @@ Merhaba,
 
 NOTLAR:
 1) application.properties dosyasını kendi serverinize göre ayarlayınız.
-2) Database ve tablo oluşturma sorugu resources/sql yolunda bulunmaktadır, çalıştırmanız yeterlidir.
+2) Database ve tablo oluşturma sorgusu resources/sql yolunda bulunmaktadır, çalıştırmanız yeterlidir.
 3) Projeyi çalıştırmak için proje klasörüne girip "mvn spring-boot:run" komutunu veya 
 com.yektan.controller paketinde bulunan Application.java dosyasını çalıştırmanız yeterlidir.
 
